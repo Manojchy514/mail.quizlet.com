@@ -1,3 +1,3 @@
 # mail.quizlet.com
 
-##subdomain takeover by Manoj
+## subdomain takeover by Manoj
